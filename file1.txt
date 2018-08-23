@@ -1,14 +1,3 @@
+file1.txt  SQLQuery1.sql
 
-public class JavaTest {
-
-	public static void main(String[] args) {
-	
-		System.out.println("Hello Java");
-		System.out.println("Hello Java");
-		System.out.println("Hello Java");
-		System.out.println("Hello Java");
-System.out.println("Hello Java2222");
-
-	}
-
-}
+"Hello World"
