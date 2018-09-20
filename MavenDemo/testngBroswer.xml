@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test  name="Test">
   
-  <parameter name="browserName" value="chrome"></parameter>
+  <parameter name="browserName" value="firefox"></parameter>
     <classes>
       <class name="MultiBrowsers.TestingBrowser"/>
     </classes>
